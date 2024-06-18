@@ -20,7 +20,7 @@ N/A
 
 This webpage serves as  Users can gain infomartion about  Search Engine Optimization, online Reputation Management and Social media marketing.
 
-You will find the repo by clicking this link- ()
+You will find the repo by clicking this link- (https://github.com/BetsyAssefa/code-refactor.git)
 
 You will find the deployed link by clicking here-()
-
+![alt text](./assets/images/01-html-css-git-homework-demo.png)
