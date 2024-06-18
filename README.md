@@ -22,5 +22,5 @@ This webpage serves as  Users can gain infomartion about  Search Engine Optimiza
 
 You will find the repo by clicking this link- (https://github.com/BetsyAssefa/code-refactor.git)
 
-You will find the deployed link by clicking here-()
+You will find the deployed link by clicking here-(https://betsyassefa.github.io/code-refactor/)
 ![alt text](./assets/images/01-html-css-git-homework-demo.png)
